@@ -9,13 +9,6 @@
 
 :high_brightness: [Related Reviews](#related-reviews)
 
-:high_brightness: [Related Conferences and Journals](#related-conferences-and-journals)
-
-:high_brightness: [Facial Expression Recognition (FER)](#facial-expression-recognition)
- 
-:high_brightness: [Facial Action Unit Recognition](#facial-action-unit-recognition)
-
-:high_brightness: [Affective Level Estimation](#affective-level-estimation)
 
 ## Datasets
 - [movielens](https://grouplens.org/datasets/movielens/)
@@ -30,16 +23,13 @@
 
 ## Challenges?
 - [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
-- [Group-level happiness intensity recognition @ ICMI](https://sites.google.com/site/emotiw2016/challenge-details)
-- [Multimodal Sentiment Analysis Challenge (MuSe) @ ACM MM](https://www.muse-challenge.org/)
-- [Audio/Visual Emotion Challenge (AVEC) @ ACM MM](https://sites.google.com/view/avec2019/home?authuser=0)
 
 
 ## Related Reviews
 - (Machine Learning) Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/abs/2011.02260)]
 - (ACM) LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
 - (ACM) NGCF:Neural Graph Collaborative Filtering∗ [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
-- (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[paper](https://ieeexplore.ieee.org/document/8598999)][[code]( https://github.com/zltao/MGAT)]
+- (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
 - (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
 - (Machine Learning) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
 - (Information Retrieval) Spectral Collaborative Filtering [[paper](https://arxiv.org/abs/1808.10523)]
