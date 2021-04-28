@@ -38,7 +38,7 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 - (IEEE TRANSACTIONS ON P A TTERN ANAL YSIS AND MACHINE INTELLIGENCE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
 
 
-## Related Conferences and Journals?
+## Related Conferences and Journals
 
 ### :small_orange_diamond: Conferences 
-[CVPR](http://cvpr2019.thecvf.com/),[ICCV](http://iccv2019.thecvf.com/),[ECCV](https://eccv2018.org/),[FG](http://fg2019.org/),[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/),[IJCAI](https://ijcai19.org/),[BMVC](https://bmvc2019.org/),[ACCV](http://accv2020.kyoto/),[WACV](http://wacv19.wacv.net/),[ICMI](http://icmi.acm.org/2019/),[ICPR](https://www.micc.unifi.it/icpr2020/),[ICIP](https://2020.ieeeicip.org/),[ACII](http://acii-conf.org/2019/),[ICB](https://www.icb2019.org/),[BIBM](https://ieeebibm.org/BIBM2019/),[ICASSP](https://2020.ieeeicassp.org/)
+[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/)
