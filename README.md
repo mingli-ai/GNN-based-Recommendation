@@ -1,6 +1,6 @@
 # GNN-based Recommendation
 
-:memo: :high_brightness: Top conferences & Journals focused on Facial expression recognition (FER)/ Facial action unit (FAU)
+:memo: :high_brightness: Matrix Completion/ Collaborative Filtering/ link prediction 
 
 ***
 :high_brightness: [Datasets](#datasets)
