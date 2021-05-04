@@ -33,7 +33,7 @@
 - (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
 - (ACM) NGCF:Neural Graph Collaborative Filtering∗ [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
 - (ACM) LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
-- (IEEE TRANSACTIONS ON P A TTERN ANAL YSIS AND MACHINE INTELLIGENCE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
+- (IEEE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
 - (Journal of Computer Research and Development)A  Collaborative  Recommendation  Model  Based  on  Enhanced  Graph 
 Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
 
