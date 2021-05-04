@@ -5,8 +5,6 @@
 ***
 :high_brightness: [Datasets](#datasets)
 
-:high_brightness: [Challenges](#challenges)
-
 :high_brightness: [Related Reviews](#related-reviews)
 
 
@@ -21,24 +19,23 @@
 - [Douban](https://www.heywhale.com/mw/dataset/58acf6f1d2445916845b4033)
 
 
-## Challenges?
-- [Emotion Recognition in the Wild Challenge (EmotiW) @ ICMI](https://sites.google.com/view/emotiw2018)
-
 
 ## Related Reviews
+### Related Syrvey
 - (Machine Learning) Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/abs/2011.02260)]
-- (ACM) LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
-- (ACM) NGCF:Neural Graph Collaborative Filtering∗ [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
-- (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
-- (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
+- (计算机学报)图卷积神经网络综述 [[paper](https://kns.cnki.net/kcms/detail/11.1826.tp.20191104.1632.006.html)]
+
+### Related Papers
 - (Machine Learning) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
 - (Information Retrieval) Spectral Collaborative Filtering [[paper](https://arxiv.org/abs/1808.10523)]
+- (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
+- (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
+- (ACM) NGCF:Neural Graph Collaborative Filtering∗ [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
+- (ACM) LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
+- (IEEE TRANSACTIONS ON P A TTERN ANAL YSIS AND MACHINE INTELLIGENCE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
 - (Journal of Computer Research and Development)A  Collaborative  Recommendation  Model  Based  on  Enhanced  Graph 
 Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
-- (IEEE TRANSACTIONS ON P A TTERN ANAL YSIS AND MACHINE INTELLIGENCE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
 
-
-## Related Conferences and Journals
-
-### :small_orange_diamond: Conferences 
-[ACM MM](https://www.acmmm.org/2019/),[AAAI](https://aaai.org/Conferences/AAAI-19/)
+### Related conference
+- (ACM) Deep Learning based Recommender System: A Survey and New Perspectives [[paper](https://arxiv.org/abs/1707.07435)]
+- (ACM) INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS [[paper](https://arxiv.org/abs/1904.12058)]
