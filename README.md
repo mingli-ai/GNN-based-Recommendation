@@ -21,7 +21,7 @@
 
 
 ## Related Reviews
-### Related Survey
+###  Survey Papers
 - (Machine Learning) Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/abs/2011.02260)]
 - (计算机学报)图卷积神经网络综述 [[paper](https://kns.cnki.net/kcms/detail/11.1826.tp.20191104.1632.006.html)]
 - (IEEE) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
@@ -38,26 +38,30 @@
 Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
 
 ### Related conference
-- (ACM) Denoising Implicit Feedback for Recommendation [[paper](https://arxiv.org/abs/2006.04153)]
-- (WWW'21) Disentangling User Interest and Conformity for Recommendation with Causal Embedding [[paper](https://arxiv.org/abs/2006.11011)]
-- (Machine Learning) Graph Attention Networks [[paper](https://arxiv.org/abs/1710.10903)]
-- (Decision Support Systems) Recommendation as link prediction in bipartite graphs: A graph kernel-based machine learning approach [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002540)]
-- (ACM) Deep Learning based Recommender System: A Survey and New Perspectives [[paper](https://arxiv.org/abs/1707.07435)]
-- (ACM) INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS [[paper](https://arxiv.org/abs/1904.12058)]
-
-### [Recommender Systems](#content)
-
-1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
-
-    *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.*
 
 1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
 
     *Federico Monti, Michael M. Bronstein, Xavier Bresson.*
+    
+1. **Graph Attention Networks.** Machine Learning 2017. [paper](https://arxiv.org/abs/1710.10903)
 
+    *Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.*
+    
+1. **Deep Learning based Recommender System: A Survey and New Perspectives.** ACM 2017. [paper](https://arxiv.org/abs/1707.07435)
+
+    *Shuai Zhang, Lina Yao, Aixin Sun, Yi Tay.*
+    
 1. **Graph Convolutional Matrix Completion.** 2017. [paper](https://arxiv.org/abs/1706.02263)
 
     *Rianne van den Berg, Thomas N. Kipf, Max Welling.*
+
+1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
+
+    *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.*
+  
+1. **INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS.** ACM 2019. [paper](https://arxiv.org/abs/1904.12058)
+
+    *Muhan Zhang, Yixin Chen.*
 
 1. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
 
@@ -114,3 +118,11 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 1. **Inductive Matrix Completion Based on Graph Neural Networks.** ICLR 2020. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
 
 	*Muhan Zhang, Yixin Chen.*
+
+1. **Denoising Implicit Feedback for Recommendation.** ACM 2020. [paper](https://arxiv.org/abs/2006.04153)
+
+	*Wenjie Wang, Fuli Feng, Xiangnan He, Liqiang Nie, Tat-Seng Chua.*
+
+1. **Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.** WWW'21 2020. [paper](https://arxiv.org/abs/2006.11011)
+
+	*Yu Zheng, Chen Gao, Xiang Li, Xiangnan He, Depeng Jin, Yong Li.*
