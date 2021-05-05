@@ -24,9 +24,9 @@
 ### Related Survey
 - (Machine Learning) Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/abs/2011.02260)]
 - (计算机学报)图卷积神经网络综述 [[paper](https://kns.cnki.net/kcms/detail/11.1826.tp.20191104.1632.006.html)]
+- (IEEE) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
 
 ### Related Papers
-
 - (Machine Learning) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
 - (Information Retrieval) Spectral Collaborative Filtering [[paper](https://arxiv.org/abs/1808.10523)]
 - (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
@@ -38,6 +38,8 @@
 Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
 
 ### Related conference
+- (ACM) Denoising Implicit Feedback for Recommendation [[paper](https://arxiv.org/abs/2006.04153)]
+- (WWW'21) Disentangling User Interest and Conformity for Recommendation with Causal Embedding [[paper](https://arxiv.org/abs/2006.11011)]
 - (Machine Learning) Graph Attention Networks [[paper](https://arxiv.org/abs/1710.10903)]
 - (Decision Support Systems) Recommendation as link prediction in bipartite graphs: A graph kernel-based machine learning approach [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167923612002540)]
 - (ACM) Deep Learning based Recommender System: A Survey and New Perspectives [[paper](https://arxiv.org/abs/1707.07435)]
