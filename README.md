@@ -126,3 +126,7 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 1. **Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.** WWW'21 2020. [paper](https://arxiv.org/abs/2006.11011)
 
 	*Yu Zheng, Chen Gao, Xiang Li, Xiangnan He, Depeng Jin, Yong Li.*
+
+1. **Self-supervised Graph Learning for Recommendation.**SIGIR 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf)
+
+	*Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie.*
