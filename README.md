@@ -137,7 +137,7 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 
 	*Chang Zhou, Jianxin Ma, Jianwei Zhang, Jingren Zhou, Hongxia Yang.*
 
-1. **Contrastive Learning for Sequential Recommendation.** WWW'21 2020. [paper](https://arxiv.org/abs/2010.14395)
+1. **Contrastive Learning for Sequential Recommendation.** WWW'21 2021. [paper](https://arxiv.org/abs/2010.14395)
 
 	*Xu Xie, Fei Sun, Zhaoyang Liu, Shiwen Wu, Jinyang Gao, Bolin Ding, Bin Cui.*
 
