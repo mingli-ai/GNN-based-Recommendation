@@ -127,6 +127,20 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 
 	*Yu Zheng, Chen Gao, Xiang Li, Xiangnan He, Depeng Jin, Yong Li.*
 
-1. **Self-supervised Graph Learning for Recommendation.** SIGIR 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf)
+1. **Self-supervised Graph Learning for Recommendation.** SIGIR 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf) [[code](https://github.com/wujcan/SGL)]
 
 	*Jiancan Wu, Xiang Wang, Fuli Feng, Xiangnan He, Liang Chen, Jianxun Lian, Xing Xie.*
+	
+
+
+1. **Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems.** SIGIR 2021. [paper](https://arxiv.org/abs/2005.12964) [[code](https://github.com/weiyinwei/MMGCN)]
+
+	*Chang Zhou, Jianxin Ma, Jianwei Zhang, Jingren Zhou, Hongxia Yang.*
+
+1. **Contrastive Learning for Sequential Recommendation.** WWW'21 2020. [paper](https://arxiv.org/abs/2010.14395)
+
+	*Xu Xie, Fei Sun, Zhaoyang Liu, Shiwen Wu, Jinyang Gao, Bolin Ding, Bin Cui.*
+
+1. **Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.** WWW 2021. [paper](https://arxiv.org/pdf/2103.10693.pdf) [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
+
+	*Zhe Xie, Chengxuan Liu, Yichi Zhang, Hongtao Lu, Dong Wang, Yue Ding.*
