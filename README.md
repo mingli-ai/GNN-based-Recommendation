@@ -133,7 +133,7 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 	
 
 
-1. **Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems.** SIGIR 2021. [paper](https://arxiv.org/abs/2005.12964) [[code](https://github.com/weiyinwei/MMGCN)]
+1. **Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems.** SIGIR 2021. [paper](https://arxiv.org/abs/2005.12964) 
 
 	*Chang Zhou, Jianxin Ma, Jianwei Zhang, Jingren Zhou, Hongxia Yang.*
 
