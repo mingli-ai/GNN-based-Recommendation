@@ -39,55 +39,54 @@ Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.2021
 
 1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
 
-    *Federico Monti, Michael M. Bronstein, Xavier Bresson.*
+   
     
 1. **Graph Attention Networks.** Machine Learning 2017. [paper](https://arxiv.org/abs/1710.10903)
 
-    *Petar Veličković, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Liò, Yoshua Bengio.*
+    
     
 1. **Deep Learning based Recommender System: A Survey and New Perspectives.** ACM 2017. [paper](https://arxiv.org/abs/1707.07435)
 
-    *Shuai Zhang, Lina Yao, Aixin Sun, Yi Tay.*
+   
     
 1. **Graph Convolutional Matrix Completion.** 2017. [paper](https://arxiv.org/abs/1706.02263)
 
-    *Rianne van den Berg, Thomas N. Kipf, Max Welling.*
+   
 
 1. **Graph Convolutional Neural Networks for Web-Scale Recommender Systems.** KDD 2018. [paper](https://arxiv.org/abs/1806.01973)
 
-    *Rex Ying, Ruining He, Kaifeng Chen, Pong Eksombatchai, William L. Hamilton, Jure Leskovec.*
+   
   
 1. **INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS.** ACM 2019. [paper](https://arxiv.org/abs/1904.12058)
 
-    *Muhan Zhang, Yixin Chen.*
+   
 
 1. **STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems.** IJCAI 2019. [paper](https://arxiv.org/pdf/1905.13129.pdf)
 
-    *Jiani Zhang, Xingjian Shi, Shenglin Zhao, Irwin King.*
+   
     
 1. **Binarized Collaborative Filtering with Distilling Graph Convolutional Networks.** IJCAI 2019. [paper](https://arxiv.org/pdf/1906.01829.pdf)
 
-    *Haoyu Wang, Defu Lian, Yong Ge.*
+   
     
 1. **Graph Contextualized Self-Attention Network for Session-based Recommendation.** IJCAI 2019. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf)
    
-    *Chengfeng Xu, Pengpeng Zhao, Yanchi Liu, Victor S. Sheng, Jiajie Xu, Fuzhen Zhuang, Junhua Fang, Xiaofang Zhou.*
-
+   
 1. **Session-based Recommendation with Graph Neural Networks.** AAAI 2019. [paper](https://arxiv.org/pdf/1811.00855.pdf)
 
-    *Shu Wu, Yuyuan Tang, Yanqiao Zhu, Liang Wang, Xing Xie, Tieniu Tan.*
+    
     
 1. **Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks.** AAAI 2019. [paper](https://jshang2.github.io/pubs/geo.pdf)
 
-    *Jin Shang, Mingxuan Sun.*
+   
 
 1. **Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems.** KDD 2019. [paper](https://arxiv.org/pdf/1905.04413)
 
-    *Hongwei Wang, Fuzheng Zhang, Mengdi Zhang, Jure Leskovec, Miao Zhao, Wenjie Li, Zhongyuan Wang.*
+   
 
 1. **Exact-K Recommendation via Maximal Clique Optimization.** KDD 2019. [paper](https://arxiv.org/pdf/1905.07089)
 
-    *Yu Gong, Yu Zhu, Lu Duan, Qingwen Liu, Ziyu Guan, Fei Sun, Wenwu Ou, Kenny Q. Zhu.*
+   
 
 1. **KGAT: Knowledge Graph Attention Network for Recommendation.** KDD 2019. [paper](https://arxiv.org/pdf/1905.07854)
 
