@@ -38,7 +38,7 @@
 - (2020) Memory Augmented Graph Neural Networks for Sequential Recommendation. [paper](https://arxiv.org/abs/1912.11730)
 - (2020) Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach. [paper](https://arxiv.org/abs/2001.10167)
 - (2020) Inductive Matrix Completion Based on Graph Neural Networks. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
-- (2020) Denoising Implicit Feedback for Recommendation. [paper](https://arxiv.org/abs/2006.04153)
+- (2020) **Denoising Implicit Feedback for Recommendation.** [paper](https://arxiv.org/abs/2006.04153)
 - (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[paper](https://arxiv.org/abs/2006.11011)
 - (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 - (2019) Graph neural networks for social recommendation. [paper](https://arxiv.org/pdf/1902.07243.pdf)
