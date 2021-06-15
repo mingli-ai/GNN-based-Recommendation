@@ -2,7 +2,7 @@
 
 :memo:  Matrix Completion/ Collaborative Filtering/ link prediction 
 
-***
+
 :high_brightness: [Datasets](#datasets)
 
 :high_brightness: [Surveys](#Surveys)
@@ -10,7 +10,7 @@
 :high_brightness: [Papers](#Papers)
 
 :high_brightness: [Tutorials](#Tutorials)
-
+***
 
 ## Datasets
 - [movielens](https://grouplens.org/datasets/movielens/)
