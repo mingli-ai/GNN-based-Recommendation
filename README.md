@@ -1,6 +1,6 @@
 # GNN-based Recommendation
 
-:memo: :high_brightness: Matrix Completion/ Collaborative Filtering/ link prediction 
+:memo:  Matrix Completion/ Collaborative Filtering/ link prediction 
 
 ***
 :high_brightness: [Datasets](#datasets)
