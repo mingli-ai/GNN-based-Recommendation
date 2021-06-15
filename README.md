@@ -21,11 +21,11 @@
 
 
 ##  Surveys
-- (Machine Learning) Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/abs/2011.02260)]
-- (IEEE) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
+- (2021)Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
+- (2021) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
 
 ## Papers
-- (Machine Learning) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
+- (2017) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
 - (Information Retrieval) Spectral Collaborative Filtering [[paper](https://arxiv.org/abs/1808.10523)]
 - (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
 - (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
@@ -35,7 +35,7 @@
 - (Journal of Computer Research and Development)A  Collaborative  Recommendation  Model  Based  on  Enhanced  Graph 
 Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
 
-## Related conference
+
 
 1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
 
