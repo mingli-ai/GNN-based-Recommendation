@@ -127,7 +127,6 @@
 
 	
 
-- (2021) Deep Recommender System: Fundamentals and Advances. [paper](https://deeprs-tutorial.github.io)
 
 	
 	
@@ -142,3 +141,5 @@
 - (2020) A Graph Neural Network Framework for Social Recommendations. [paper](https://ieeexplore.ieee.org/abstract/document/9139346)
 
 	
+## Tutorials
+- (2021) Deep Recommender System: Fundamentals and Advances. [paper](https://deeprs-tutorial.github.io)
