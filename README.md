@@ -45,104 +45,24 @@
 - (2019) A neural influence diffusion model for social recommendation. [paper](https://arxiv.org/pdf/1904.10322.pdf)
 - (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
 - (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
-- (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
-
-
-- (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [paper](https://arxiv.org/abs/1704.06803)
-- (2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [paper](https://arxiv.org/abs/1806.01973)
 - (2019) INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS. [paper](https://arxiv.org/abs/1904.12058)
-
-   
-
-- (2019) STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. [paper](https://arxiv.org/pdf/1905.13129.pdf)
-
-   
-    
-- (2019) Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. [paper](https://arxiv.org/pdf/1906.01829.pdf)
-
-   
-    
-- (2019) Graph Contextualized Self-Attention Network for Session-based Recommendation. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf)
-   
-   
+- (2019) STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. [paper](https://arxiv.org/pdf/1905.13129.pdf) 
+- (2019) Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. [paper](https://arxiv.org/pdf/1906.01829.pdf) 
+- (2019) Graph Contextualized Self-Attention Network for Session-based Recommendation. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf) 
 - (2019) Session-based Recommendation with Graph Neural Networks.[paper](https://arxiv.org/pdf/1811.00855.pdf)
-
-    
-    
-
-   
-
 - (2019) Knowledge-aware Graph Neural Networks with Label Smoothness Regularization for Recommender Systems. [paper](https://arxiv.org/pdf/1905.04413)
-
-   
-
 - (2019) Exact-K Recommendation via Maximal Clique Optimization. [paper](https://arxiv.org/pdf/1905.07089)
-
-   
-
-- (2019) KGAT: Knowledge Graph Attention Network for Recommendation. [paper](https://arxiv.org/pdf/1905.07854)
-
-    
-    
-- (2019) Knowledge Graph Convolutional Networks for Recommender Systems. [paper](https://arxiv.org/pdf/1904.12575.pdf)
-
-   
-    
-- (2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [paper](https://arxiv.org/pdf/1903.10433.pdf)
-
-    
+- (2019) KGAT: Knowledge Graph Attention Network for Recommendation. [paper](https://arxiv.org/pdf/1905.07854)  
+- (2019) Knowledge Graph Convolutional Networks for Recommender Systems. [paper](https://arxiv.org/pdf/1904.12575.pdf)  
+- (2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [paper](https://arxiv.org/pdf/1903.10433.pdf)   
 - (2019) Graph Neural Networks for Social Recommendation. [paper](https://arxiv.org/pdf/1902.07243.pdf)
-
-   
-
-
-
-	
-
-
-
-	
-	
-
-
-
-
-	
-
-
-
-
-
-
-	
-
+- (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
+- (2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [paper](https://arxiv.org/abs/1806.01973)
+- (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [paper](https://arxiv.org/abs/1704.06803)
 - (2017) DeepFM: a factorization-machine based neural network for CTR prediction. [paper](https://arxiv.org/pdf/1703.04247.pdf)
 
 	
-
-
-	
-	
-
-	
-
-
-
 	
 ## Tutorials
 - (2021) Deep Recommender System: Fundamentals and Advances. [paper](https://deeprs-tutorial.github.io)
