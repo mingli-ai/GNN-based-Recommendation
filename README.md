@@ -25,7 +25,7 @@
 - (2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
 
 ## Papers
-- (2017) **GCMC: Graph Convolutional Matrix Completion ** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
 - (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
 - (2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.researchgate.net/profile/Zhulin-Tao/publication/341324971_MGAT_Multimodal_Graph_Attention_Network_for_Recommendation/links/60535c5d299bf17367521ac4/MGAT-Multimodal-Graph-Attention-Network-for-Recommendation.pdf)] [[code]( https://github.com/zltao/MGAT)]
