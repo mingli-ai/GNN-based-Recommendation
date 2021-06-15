@@ -66,5 +66,4 @@
 	
 ## Tutorials
 - (2021) Deep Recommender System: Fundamentals and Advances. [paper](https://deeprs-tutorial.github.io)
-
--（2020）Learning and Reasoning on Graph for Recommendation  [paper](https://next-nus.github.io/)
+- (2020) Learning and Reasoning on Graph for Recommendation  [paper](https://next-nus.github.io/)
