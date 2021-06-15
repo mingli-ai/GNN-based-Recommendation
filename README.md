@@ -25,15 +25,13 @@
 - (2021) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
 
 ## Papers
-- (2017) GCMC: Graph Convolutional Matrix Completion [[paper](https://arxiv.org/abs/1706.02263)]
-- (Information Retrieval) Spectral Collaborative Filtering [[paper](https://arxiv.org/abs/1808.10523)]
-- (ACM) MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video [[code](https://github.com/weiyinwei/MMGCN)]
-- (Information Processing and Management) MGAT: Multimodal Graph Attention Network for Recommendation [[code]( https://github.com/zltao/MGAT)]
-- (ACM) NGCF:Neural Graph Collaborative Filtering∗ [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
-- (ACM) LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
-- (IEEE) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
-- (Journal of Computer Research and Development)A  Collaborative  Recommendation  Model  Based  on  Enhanced  Graph 
-Convolutional Network  [[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
+- (2017) **GCMC: Graph Convolutional Matrix Completion ** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
+- (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
+- (2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.researchgate.net/profile/Zhulin-Tao/publication/341324971_MGAT_Multimodal_Graph_Attention_Network_for_Recommendation/links/60535c5d299bf17367521ac4/MGAT-Multimodal-Graph-Attention-Network-for-Recommendation.pdf)] [[code]( https://github.com/zltao/MGAT)]
+- (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
+- (2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
+- (2020) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
 
 
 
