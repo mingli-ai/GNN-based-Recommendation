@@ -27,13 +27,42 @@
 
 
 ## Papers
-- (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
-- (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
-- (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
-- (2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.researchgate.net/profile/Zhulin-Tao/publication/341324971_MGAT_Multimodal_Graph_Attention_Network_for_Recommendation/links/60535c5d299bf17367521ac4/MGAT-Multimodal-Graph-Attention-Network-for-Recommendation.pdf)] [[code]( https://github.com/zltao/MGAT)]
-- (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
+
+- (2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [paper](https://arxiv.org/abs/2005.12964) 
+- (2021) Contrastive Learning for Sequential Recommendation. [paper](https://arxiv.org/abs/2010.14395)
+- (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
+- (2020) A Graph Neural Network Framework for Social Recommendations. [paper](https://ieeexplore.ieee.org/abstract/document/9139346)
 - (2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
 - (2020) Co-embedding of Nodes and Edges with Graph Neural Networks [[paper](https://arxiv.org/abs/2010.13242)]
+- (2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.researchgate.net/profile/Zhulin-Tao/publication/341324971_MGAT_Multimodal_Graph_Attention_Network_for_Recommendation/links/60535c5d299bf17367521ac4/MGAT-Multimodal-Graph-Attention-Network-for-Recommendation.pdf)] [[code]( https://github.com/zltao/MGAT)]
+- (2020) Memory Augmented Graph Neural Networks for Sequential Recommendation. [paper](https://arxiv.org/abs/1912.11730)
+- (2020) Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach. [paper](https://arxiv.org/abs/2001.10167)
+- (2020) Inductive Matrix Completion Based on Graph Neural Networks. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
+- (2020) Denoising Implicit Feedback for Recommendation. [paper](https://arxiv.org/abs/2006.04153)
+- (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[paper](https://arxiv.org/abs/2006.11011)
+- (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
+- (2019) Graph neural networks for social recommendation. [paper](https://arxiv.org/pdf/1902.07243.pdf)
+- (2019) A neural influence diffusion model for social recommendation. [paper](https://arxiv.org/pdf/1904.10322.pdf)
+- (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
+- (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
+
+
 - (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [paper](https://arxiv.org/abs/1704.06803)
 - (2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [paper](https://arxiv.org/abs/1806.01973)
 - (2019) INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS. [paper](https://arxiv.org/abs/1904.12058)
@@ -81,39 +110,17 @@
 
    
 
-- (2020) Memory Augmented Graph Neural Networks for Sequential Recommendation. [paper](https://arxiv.org/abs/1912.11730)
 
-
-- (2020) Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach. [paper](https://arxiv.org/abs/2001.10167)
-
-	
-- (2020) Inductive Matrix Completion Based on Graph Neural Networks. [paper](https://openreview.net/pdf?id=ByxxgCEYDS)
 
 	
 
-- (2020) Denoising Implicit Feedback for Recommendation. [paper](https://arxiv.org/abs/2006.04153)
 
-	
-
-- (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[paper](https://arxiv.org/abs/2006.11011)
-
-	
-
-- (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 
 	
 	
 
 
-- (2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [paper](https://arxiv.org/abs/2005.12964) 
 
-	
-
-- (2021) Contrastive Learning for Sequential Recommendation. [paper](https://arxiv.org/abs/2010.14395)
-
-	
-
-- (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
 
 	
 
@@ -131,15 +138,10 @@
 
 	
 	
-- (2019) Graph neural networks for social recommendation. [paper](https://arxiv.org/pdf/1902.07243.pdf)
 
 	
 
-- (2019) A neural influence diffusion model for social recommendation. [paper](https://arxiv.org/pdf/1904.10322.pdf)
 
-	
-
-- (2020) A Graph Neural Network Framework for Social Recommendations. [paper](https://ieeexplore.ieee.org/abstract/document/9139346)
 
 	
 ## Tutorials
