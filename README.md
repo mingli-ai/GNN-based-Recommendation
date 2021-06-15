@@ -21,8 +21,8 @@
 
 
 ##  Surveys
-- (2021)Graph Neural Networks in Recommender Systems: A Survey [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
-- (2021) A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
+- (2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
+- (2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://www.zhuanzhi.ai/paper/cbf33028b44f85138520717fd1d72792)]
 
 ## Papers
 - (2017) **GCMC: Graph Convolutional Matrix Completion ** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
