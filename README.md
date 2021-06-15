@@ -51,7 +51,7 @@
 - (2019) Graph Contextualized Self-Attention Network for Session-based Recommendation. [paper](https://www.ijcai.org/proceedings/2019/0547.pdf)
    
    
-- (2019) Session-based Recommendation with Graph Neural Networks.* [paper](https://arxiv.org/pdf/1811.00855.pdf)
+- (2019) Session-based Recommendation with Graph Neural Networks.[paper](https://arxiv.org/pdf/1811.00855.pdf)
 
     
     
