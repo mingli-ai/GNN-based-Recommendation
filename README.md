@@ -14,7 +14,6 @@
 - [gowalla](https://snap.stanford.edu/data/loc-gowalla.html)
 - [yelp 2018](https://www.yelp.com/dataset)
 - [Tiktok](http://ai-lab-challenge.bytedance.com/tce/vc/)
-- [Kwai](https://www.kuaishou.com/activity/uimc)
 - [Flixster](https://figshare.com/articles/dataset/Flixster-dataset_zip/5677741)
 - [Douban](https://www.heywhale.com/mw/dataset/58acf6f1d2445916845b4033)
 
