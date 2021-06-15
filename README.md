@@ -66,11 +66,13 @@
 
 ##### :small_orange_diamond:2018
 - (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
+- (2018) **Outer product-based neural collaborative filtering** [[paper](https://arxiv.org/pdf/1808.03912.pdf3)]
 - (2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [[paper](https://arxiv.org/abs/1806.01973)]
 
 ##### :small_orange_diamond:2017
 - (2017) **Attentive collaborative filtering: Multimedia recommendation with item-and component-level attention.** [[paper](https://ai.tencent.com/ailab/media/publications/Wei_Liu-Attentive_Collaborative_Filtering_Multimedia_Recommendation-SIGIR17.pdf)] 
 - (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
+- (2017) **Neural Collaborative Filtering** [[paper](https://arxiv.org/pdf/1708.05031.pdf?source=post_page---------------------------)]
 - (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [[paper](https://arxiv.org/abs/1704.06803)]
 - (2017) DeepFM: a factorization-machine based neural network for CTR prediction. [[paper](https://arxiv.org/pdf/1703.04247.pdf)]
 
