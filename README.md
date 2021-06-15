@@ -5,7 +5,11 @@
 ***
 :high_brightness: [Datasets](#datasets)
 
-:high_brightness: [Related Reviews](#related-reviews)
+:high_brightness: [Surveys](#Surveys)
+
+:high_brightness: [Papers](#Papers)
+
+:high_brightness: [Tutorials](#Tutorials)
 
 
 ## Datasets
