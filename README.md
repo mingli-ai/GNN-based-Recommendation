@@ -43,6 +43,8 @@
 - (2020) **Denoising Implicit Feedback for Recommendation.** [[paper](https://arxiv.org/abs/2006.04153)]
 - (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[[paper](https://arxiv.org/abs/2006.11011)]
 - (2020) **Self-supervised Graph Learning for Recommendation.**  [[paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
+
+#### :small_orange_diamond:2019
 - (2019) Graph neural networks for social recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
 - (2019) A neural influence diffusion model for social recommendation. [[paper](https://arxiv.org/pdf/1904.10322.pdf)]
 - (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
@@ -58,8 +60,12 @@
 - (2019) Knowledge Graph Convolutional Networks for Recommender Systems. [[paper](https://arxiv.org/pdf/1904.12575.pdf)]  
 - (2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [[paper](https://arxiv.org/pdf/1903.10433.pdf)]  
 - (2019) Graph Neural Networks for Social Recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
+
+#### :small_orange_diamond:2018
 - (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
 - (2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [[paper](https://arxiv.org/abs/1806.01973)]
+
+#### :small_orange_diamond:2017
 - (2017) **GCMC: Graph Convolutional Matrix Completion.** [[paper](https://arxiv.org/abs/1706.02263)] [[code](https://github.com/hengruizhang98/GCMC-Pytorch-dgl)]
 - (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [[paper](https://arxiv.org/abs/1704.06803)]
 - (2017) DeepFM: a factorization-machine based neural network for CTR prediction. [[paper](https://arxiv.org/pdf/1703.04247.pdf)]
