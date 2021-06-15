@@ -98,51 +98,47 @@
 
 	
 
-1. **Self-supervised Graph Learning for Recommendation.** SIGIR 2021. [paper](https://arxiv.org/pdf/2010.10783.pdf) [[code](https://github.com/wujcan/SGL)]
+- (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf) [[code](https://github.com/wujcan/SGL)]
 
 	
 	
 
 
-1. **Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems.** SIGIR 2021. [paper](https://arxiv.org/abs/2005.12964) 
+- (2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [paper](https://arxiv.org/abs/2005.12964) 
 
 	
 
-1. **Contrastive Learning for Sequential Recommendation.** WWW'21 2021. [paper](https://arxiv.org/abs/2010.14395)
+- (2021) Contrastive Learning for Sequential Recommendation. [paper](https://arxiv.org/abs/2010.14395)
 
 	
 
-1. **Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.** WWW 2021. [paper](https://arxiv.org/pdf/2103.10693.pdf) [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
-
-	
-
-
-
-
-1. **Deep learning based recommender system: A survey and new perspectives.** CSUR 2019. [paper](https://arxiv.org/pdf/1707.07435.pdf)
-
-	
-
-1. **DeepFM: a factorization-machine based neural network for CTR prediction..** IJCAI 2017.. [paper](https://arxiv.org/pdf/1703.04247.pdf)
-
-	
-
-1. **Deep Recommender System: Fundamentals and Advances.** The Web Conference 2021. [paper](https://deeprs-tutorial.github.io)
+- (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[paper](https://arxiv.org/pdf/2103.10693.pdf) [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
 
 	
 
 
-	
-	
-	
-1. **Graph neural networks for social recommendation.** In The World Wide Web Conference, 2019. [paper](https://arxiv.org/pdf/1902.07243.pdf)
+
+
+- (2019) Deep learning based recommender system: A survey and new perspectives. [paper](https://arxiv.org/pdf/1707.07435.pdf)
 
 	
 
-1. **A neural influence diffusion model for social recommendation.** ACM SIGIR, 2019.. [paper](https://arxiv.org/pdf/1904.10322.pdf)
+- (2017) DeepFM: a factorization-machine based neural network for CTR prediction. [paper](https://arxiv.org/pdf/1703.04247.pdf)
 
 	
 
-1. **A Graph Neural Network Framework for Social Recommendations.** IEEE TKDE, 2020. [paper](https://ieeexplore.ieee.org/abstract/document/9139346)
+- (2021) Deep Recommender System: Fundamentals and Advances. [paper](https://deeprs-tutorial.github.io)
+
+	
+	
+- (2019) Graph neural networks for social recommendation. [paper](https://arxiv.org/pdf/1902.07243.pdf)
+
+	
+
+- (2019) A neural influence diffusion model for social recommendation. [paper](https://arxiv.org/pdf/1904.10322.pdf)
+
+	
+
+- (2020) A Graph Neural Network Framework for Social Recommendations. [paper](https://ieeexplore.ieee.org/abstract/document/9139346)
 
 	
