@@ -35,19 +35,18 @@
 
 
 
-1. **Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks.** NIPS 2017. [paper](https://arxiv.org/abs/1704.06803)
+- (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [paper](https://arxiv.org/abs/1704.06803)
 
    
     
-1. **Graph Attention Networks.** Machine Learning 2017. [paper](https://arxiv.org/abs/1710.10903)
 
     
     
-1. **Deep Learning based Recommender System: A Survey and New Perspectives.** ACM 2017. [paper](https://arxiv.org/abs/1707.07435)
+
 
    
     
-1. **Graph Convolutional Matrix Completion.** 2017. [paper](https://arxiv.org/abs/1706.02263)
+
 
    
 
