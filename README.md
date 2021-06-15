@@ -99,7 +99,7 @@
 
 	
 
-- (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf) [[code](https://github.com/wujcan/SGL)]
+- (2020) **Self-supervised Graph Learning for Recommendation.**  [paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 
 	
 	
@@ -113,7 +113,7 @@
 
 	
 
-- (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[paper](https://arxiv.org/pdf/2103.10693.pdf) [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
+- (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
 
 	
 
