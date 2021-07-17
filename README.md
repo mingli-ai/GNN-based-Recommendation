@@ -33,6 +33,7 @@
 ##### :small_orange_diamond:2021
 
 - (2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
+- (2021) **Interest-aware Message-Passing GCN for Recommendation** [[paper](https://arxiv.org/abs/2102.10044)] [[code](https://github.com/liufancs/IMP_GCN)]
 - (2021) **Sequential Recommendation with Graph Neural Networks** [[paper](https://arxiv.org/abs/2106.14226)]
 - (2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
 - (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
