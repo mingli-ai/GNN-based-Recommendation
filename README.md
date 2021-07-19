@@ -64,7 +64,7 @@
 - (2019) **Simplifying Graph Convolutional Networks** [[paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)][[code]( https://github.com/Tiiiger/SGC)]
 - (2019) Graph neural networks for social recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
 - (2019) A neural influence diffusion model for social recommendation. [[paper](https://arxiv.org/pdf/1904.10322.pdf)]
-- (2019) INDUCTIVE MATRIX COMPLETION BASED ON GRAPH NEURAL NETWORKS. [[paper](https://arxiv.org/abs/1904.12058)]
+- (2019) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://arxiv.org/abs/1904.12058)]
 - (2019) STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. [[paper](https://arxiv.org/pdf/1905.13129.pdf)]
 - (2019) Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. [[paper](https://arxiv.org/pdf/1906.01829.pdf)]
 - (2019) Graph Contextualized Self-Attention Network for Session-based Recommendation. [[paper](https://www.ijcai.org/proceedings/2019/0547.pdf)]
