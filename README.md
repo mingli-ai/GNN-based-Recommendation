@@ -56,14 +56,14 @@
 ##### :small_orange_diamond:2020
 
 
-- (2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
-- (2020) **Co-embedding of Nodes and Edges with Graph Neural Networks** [[paper](https://arxiv.org/abs/2010.13242)]
-- (2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.researchgate.net/profile/Zhulin-Tao/publication/341324971_MGAT_Multimodal_Graph_Attention_Network_for_Recommendation/links/60535c5d299bf17367521ac4/MGAT-Multimodal-Graph-Attention-Network-for-Recommendation.pdf)] [[code]( https://github.com/zltao/MGAT)]
-- (2020) **Denoising Implicit Feedback for Recommendation.** [[paper](https://arxiv.org/abs/2006.04153)]
+- (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
+- (IEEE 2020) **Co-embedding of Nodes and Edges with Graph Neural Networks** [[paper](https://arxiv.org/abs/2010.13242)]
+- (Elsevier 2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182)] [[code]( https://github.com/zltao/MGAT)]
+- (WSDM 2020) **Denoising Implicit Feedback for Recommendation.** [[paper](https://arxiv.org/abs/2006.04153)]
 - (2020) **Graph-Refined Convolutional Network for Multimedia Recommendation with Implicit Feedback.** [[paper](http://data-science.ustc.edu.cn/_upload/article/files/c4/4f/10f4da284171a6275429698edccf/c3aada42-ddfd-48e3-ae59-943ba9bb6edb.pdf)]
-- (2020) **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** [[paper](https://arxiv.org/abs/2001.10167)] [[code]( https://github.com/newlei/LR-GCCF.)]
-- (2020) Memory Augmented Graph Neural Networks for Sequential Recommendation. [[paper](https://arxiv.org/abs/1912.11730)]
-- (2020) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://openreview.net/pdf?id=ByxxgCEYDS)]
+- (AAAI 2020) **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** [[paper](https://arxiv.org/abs/2001.10167)] [[code]( https://github.com/newlei/LR-GCCF.)]
+- (AAAI 2020) Memory Augmented Graph Neural Networks for Sequential Recommendation. [[paper](https://arxiv.org/abs/1912.11730)]
+- (ICLR 2020) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://openreview.net/pdf?id=ByxxgCEYDS)]
 - (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[[paper](https://arxiv.org/abs/2006.11011)]
 - (2020) A Graph Neural Network Framework for Social Recommendations. [[paper](https://ieeexplore.ieee.org/abstract/document/9139346)]
 - (AAAI 2020) Who You Would Like to Share With? A Study of Share Recommendation in Social E-commerce [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1214.JiH.pdf)]
