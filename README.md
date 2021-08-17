@@ -70,10 +70,10 @@
 
 
 ##### :small_orange_diamond:2019
-- (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
+- (SIGIR 2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
 - (2019) **MMGCN: Multi-modal Graph Convolution Network for Personalized Recommendation of Micro-video** [[paper](http://staff.ustc.edu.cn/~hexn/papers/mm19-MMGCN.pdf)] [[code](https://github.com/weiyinwei/MMGCN)]
 - (2019) **Simplifying Graph Convolutional Networks** [[paper](http://proceedings.mlr.press/v97/wu19e/wu19e.pdf)][[code]( https://github.com/Tiiiger/SGC)]
-- (2019) Graph neural networks for social recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
+- (WWW 2019) Graph neural networks for social recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
 - (2019) A neural influence diffusion model for social recommendation. [[paper](https://arxiv.org/pdf/1904.10322.pdf)]
 - (2019) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://arxiv.org/abs/1904.12058)]
 - (2019) STAR-GCN: Stacked and Reconstructed Graph Convolutional Networks for Recommender Systems. [[paper](https://arxiv.org/pdf/1905.13129.pdf)]
