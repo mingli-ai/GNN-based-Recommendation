@@ -42,6 +42,12 @@
 - (2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
 - (2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code](https://github.com/ACVAE/ACVAE-PyTorch)]
 - (2021) **基于增强图卷积神经网络的协同推荐模型**[[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
+- (2021) **Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems**[[paper](http://yusanlin.com/files/papers/sigir21_structure.pdf)]
+- (2021) **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** [[paper](http://le-wu.com/files/Publications/CONFERENCES/SIGIR2021-yang.pdf)]
+- (2021) **Localized Graph Collaborative Filtering** [[paper](https://arxiv.org/pdf/2108.04475.pdf)]
+- (WWW 2021) Large-scale Comb-K Recommendation [[paper](http://shichuan.org/doc/106.pdf)]
+- (AAAI 2021) Detecting Beneficial Feature Interactions for Recommender Systems[[paper](https://www.aaai.org/AAAI21Papers/AAAI-279.SuY.pdf)]
+
 
 
 ##### :small_orange_diamond:2020
@@ -57,6 +63,7 @@
 - (2020) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://openreview.net/pdf?id=ByxxgCEYDS)]
 - (2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[[paper](https://arxiv.org/abs/2006.11011)]
 - (2020) A Graph Neural Network Framework for Social Recommendations. [[paper](https://ieeexplore.ieee.org/abstract/document/9139346)]
+- (AAAI 2020) Who You Would Like to Share With? A Study of Share Recommendation in Social E-commerce [[paper](https://www.aaai.org/AAAI21Papers/AAAI-1214.JiH.pdf)]
 
 ##### :small_orange_diamond:2019
 - (2019) **NGCF:Neural Graph Collaborative Filtering** [[paper](https://arxiv.org/abs/1905.08108)][[code]( https://github.com/xiangwang1223/neural_graph_collaborative_filtering)]
@@ -75,6 +82,7 @@
 - (2019) Knowledge Graph Convolutional Networks for Recommender Systems. [[paper](https://arxiv.org/pdf/1904.12575.pdf)]  
 - (2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [[paper](https://arxiv.org/pdf/1903.10433.pdf)]  
 - (2019) Graph Neural Networks for Social Recommendation. [[paper](https://arxiv.org/pdf/1902.07243.pdf)]
+- (KDD 2019) Exact-K Recommendation via Maximal Clique Optimization[[paper](https://arxiv.org/pdf/1905.07089.pdf)]
 
 ##### :small_orange_diamond:2018
 - (2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
