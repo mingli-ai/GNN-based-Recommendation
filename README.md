@@ -40,7 +40,7 @@
 - (SIGIR 2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
 - (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
 - (WWW 2021) **Interest-aware Message-Passing GCN for Recommendation** [[paper](https://arxiv.org/abs/2102.10044)] [[code](https://github.com/liufancs/IMP_GCN)]
-- (WWW 2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)] [[code]
+- (WWW 2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)]
 - (WWW 2021) Large-scale Comb-K Recommendation [[paper](http://shichuan.org/doc/106.pdf)]
 - (KDD 2021) **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf)] [[code](https://github.com/huangtinglin/MixGCF)]
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
