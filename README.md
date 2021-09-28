@@ -28,6 +28,7 @@
 - (IEEE 2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://arxiv.org/pdf/2104.13030.pdf)]
 - (ACM 2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
 - (ACM 2019) Deep learning based recommender system: A survey and new perspectives. [[paper](https://arxiv.org/pdf/1707.07435.pdf)]
+- (2021) Recommender systems based on graph embedding techniques:A comprehensive review [[paper](https://www.zhuanzhi.ai/paper/3c66703f93cc63d358e1bec24211ebf3)]
 
 
 ## Papers
@@ -50,6 +51,10 @@
 - (IJCAI 2021)User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation [[paper](https://www.ijcai.org/proceedings/2021/0224.pdf)]
 - (2021) **基于增强图卷积神经网络的协同推荐模型**[[paper](https://kns.cnki.net/kcms/detail/11.1777.TP.20210203.1157.004.html)]
 - (2021) **Localized Graph Collaborative Filtering** [[paper](https://arxiv.org/pdf/2108.04475.pdf)]
+- (2021) 面向推荐系统的图卷积网络 [[paper](http://www.jos.org.cn/html/2020/4/5928.htm)]
+- (2021) **How Powerful is Graph Convolution for Recommendation?** [[paper](https://arxiv.org/pdf/2108.07567.pdf)]
+- (AAAI 2021) Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[paper](https://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)]
+- (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://arxiv.org/abs/2101.06448)] [[code](https://github.com/Coder-Yu/QRec)]
 
 
 
