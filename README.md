@@ -45,7 +45,7 @@
 - (WWW 2021) Large-scale Comb-K Recommendation [[paper](http://shichuan.org/doc/106.pdf)]
 - (KDD 2021) **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf)] [[code](https://github.com/huangtinglin/MixGCF)]
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
-[[code](https://github.com/ACVAE/ACVAE-PyTorch)]
+
 - (KDD 2021) Deep Graph Convolutional Networks with Hybrid Normalization for Accurate and Diverse Recommendation [[paper](https://dlp-kdd.github.io/assets/pdf/DLP-KDD_2021_paper_1.pdf)]
 - (AAAI 2021) Detecting Beneficial Feature Interactions for Recommender Systems[[paper](https://www.aaai.org/AAAI21Papers/AAAI-279.SuY.pdf)]
 - (IJCAI 2021)User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation [[paper](https://www.ijcai.org/proceedings/2021/0224.pdf)]
