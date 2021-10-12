@@ -33,6 +33,7 @@
 
 ## Papers
 ##### :small_orange_diamond:2021
+- (SIGIR 2021) Graph Meta Network for Multi-Behavior Recommendation [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462972)] [[code](https://github.com/akaxlh/MB-GMN)]
 - (SIGIR 2021) **Self-supervised Graph Learning for Recommendation.**  [[paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 - (SIGIR 2021) **Neural Graph Matching based Collaborative Filtering** [[paper](https://arxiv.org/abs/2105.04067)] [[code](https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering)]
 - (SIGIR 2021) **Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems**[[paper](http://yusanlin.com/files/papers/sigir21_structure.pdf)]
