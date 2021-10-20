@@ -58,6 +58,12 @@
 - (AAAI 2021) Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[paper](https://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)]
 - (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://arxiv.org/abs/2101.06448)] [[code](https://github.com/Coder-Yu/QRec)]
 
+social recommendation
+- (SIGIR 2021) Social Recommendation with Implicit Social Influence[[paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463043)]
+- (KDD 2021)Socially-Aware Self-Supervised Tri-Training for Recommendation [[paper](https://arxiv.org/pdf/2106.03569)]
+- (ICDE 2021)Group-Buying Recommendation for Social E-Commerce[[paper]https://github.com/Sweetnow/group-buying-recommendation]
+- (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation[[code](https://github.com/Coder-Yu/QRec)]
+
 
 
 
