@@ -69,7 +69,7 @@
 - (arxiv 2021)Dynamic Graph Neural Networks for Sequential Recommendation[[paper](https://arxiv.org/pdf/2104.07368)]
 - (TKDE 2021)Graph-based Embedding Smoothing for Sequential Recommendation[[paper](https://ieeexplore.ieee.org/abstract/document/9405450/)][[code](https://github.com/zhuty16/GES)]
 - (SIGIR 2021)Sequential Recommendation with Graph Neural Networks[[paper](https://arxiv.org/pdf/2106.14226)]
--
+
 	Session Recommendation
 - (SDM 2021)Session-based Recommendation with Hypergraph Attention Networks[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.10)]
 - (CIKM 2021)Self-Supervised Graph Co-Training for Session-based Recommendation[[paper](https://arxiv.org/pdf/2108.10560)][[code](https://github.com/xiaxin1998/COTREC)]
