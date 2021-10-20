@@ -29,6 +29,7 @@
 - (ACM 2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
 - (ACM 2019) Deep learning based recommender system: A survey and new perspectives. [[paper](https://arxiv.org/pdf/1707.07435.pdf)]
 - (2021) Recommender systems based on graph embedding techniques:A comprehensive review [[paper](https://www.zhuanzhi.ai/paper/3c66703f93cc63d358e1bec24211ebf3)]
+- (ACM 2021) Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions[[paper](https://arxiv.org/pdf/2109.12843.pdf)] [[code](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems)]
 
 
 ## Papers
