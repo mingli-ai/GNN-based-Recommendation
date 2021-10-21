@@ -39,15 +39,12 @@
 - (SIGIR 2021) **Neural Graph Matching based Collaborative Filtering** [[paper](https://arxiv.org/abs/2105.04067)] [[code](https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering)]
 - (SIGIR 2021) **Structured Graph Convolutional Networks with Stochastic Masks for Recommender Systems**[[paper](http://yusanlin.com/files/papers/sigir21_structure.pdf)]
 - (SIGIR 2021) **Enhanced Graph Learning for Collaborative Filtering via Mutual Information Maximization** [[paper](http://le-wu.com/files/Publications/CONFERENCES/SIGIR2021-yang.pdf)]
-- (SIGIR 2021) **Sequential Recommendation with Graph Neural Networks** [[paper](https://arxiv.org/abs/2106.14226)]
 - (SIGIR 2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
-- (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
 - (WWW 2021) **Interest-aware Message-Passing GCN for Recommendation** [[paper](https://arxiv.org/abs/2102.10044)] [[code](https://github.com/liufancs/IMP_GCN)]
 - (WWW 2021) Adversarial and Contrastive Variational Autoencoder for Sequential Recommendation.[[paper](https://arxiv.org/pdf/2103.10693.pdf)]
 - (WWW 2021) Large-scale Comb-K Recommendation [[paper](http://shichuan.org/doc/106.pdf)]
 - (KDD 2021) **MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems** [[paper](https://keg.cs.tsinghua.edu.cn/jietang/publications/KDD21-Huang-et-al-MixGCF.pdf)] [[code](https://github.com/huangtinglin/MixGCF)]
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
-
 - (KDD 2021) Deep Graph Convolutional Networks with Hybrid Normalization for Accurate and Diverse Recommendation [[paper](https://dlp-kdd.github.io/assets/pdf/DLP-KDD_2021_paper_1.pdf)]
 - (AAAI 2021) Detecting Beneficial Feature Interactions for Recommender Systems[[paper](https://www.aaai.org/AAAI21Papers/AAAI-279.SuY.pdf)]
 - (IJCAI 2021)User-as-Graph: User Modeling with Heterogeneous Graph Pooling for News Recommendation [[paper](https://www.ijcai.org/proceedings/2021/0224.pdf)]
@@ -68,7 +65,8 @@
 	Sequential Recommendation
 - (arxiv 2021)Dynamic Graph Neural Networks for Sequential Recommendation[[paper](https://arxiv.org/pdf/2104.07368)]
 - (TKDE 2021)Graph-based Embedding Smoothing for Sequential Recommendation[[paper](https://ieeexplore.ieee.org/abstract/document/9405450/)][[code](https://github.com/zhuty16/GES)]
-- (SIGIR 2021)Sequential Recommendation with Graph Neural Networks[[paper](https://arxiv.org/pdf/2106.14226)]
+- (SIGIR 2021)**Sequential Recommendation with Graph Neural Networks**[[paper](https://arxiv.org/pdf/2106.14226)]
+- (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
 
 	Session Recommendation
 - (SDM 2021)Session-based Recommendation with Hypergraph Attention Networks[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.10)]
