@@ -33,7 +33,7 @@
 
 
 ## Papers
-##### :small_orange_diamond:2021
+### :small_orange_diamond:2021
 - (SIGIR 2021) Graph Meta Network for Multi-Behavior Recommendation [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462972)] [[code](https://github.com/akaxlh/MB-GMN)]
 - (SIGIR 2021) **Self-supervised Graph Learning for Recommendation.**  [[paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 - (SIGIR 2021) **Neural Graph Matching based Collaborative Filtering** [[paper](https://arxiv.org/abs/2105.04067)] [[code](https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering)]
@@ -57,20 +57,20 @@
 - (SIGIR 2021)**Sequential Recommendation with Graph Neural Networks**[[paper](https://arxiv.org/pdf/2106.14226)]
 - (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
 
-	social recommendation
+##### :small_orange_diamond:social recommendation
 - (SIGIR 2021) Social Recommendation with Implicit Social Influence[[paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463043)]
 - (KDD 2021)Socially-Aware Self-Supervised Tri-Training for Recommendation [[paper](https://arxiv.org/pdf/2106.03569)]
 - (ICDE 2021)Group-Buying Recommendation for Social E-Commerce[[paper]https://github.com/Sweetnow/group-buying-recommendation]
 - (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation[[code](https://github.com/Coder-Yu/QRec)]
 - (AAAI 2021)Knowledge-aware coupled graph neural network for social recommendation[[paper](https://www.aaai.org/AAAI21Papers/AAAI-9069.HuangC.pdf)]
 
-	Sequential Recommendation
+##### :small_orange_diamond:Sequential Recommendation
 - (arxiv 2021)Dynamic Graph Neural Networks for Sequential Recommendation[[paper](https://arxiv.org/pdf/2104.07368)]
 - (TKDE 2021)Graph-based Embedding Smoothing for Sequential Recommendation[[paper](https://ieeexplore.ieee.org/abstract/document/9405450/)][[code](https://github.com/zhuty16/GES)]
 - (SIGIR 2021)**Sequential Recommendation with Graph Neural Networks**[[paper](https://arxiv.org/pdf/2106.14226)]
 - (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
 
-	Session Recommendation
+##### :small_orange_diamond:Session Recommendation
 - (SDM 2021)Session-based Recommendation with Hypergraph Attention Networks[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.10)]
 - (CIKM 2021)Self-Supervised Graph Co-Training for Session-based Recommendation[[paper](https://arxiv.org/pdf/2108.10560)][[code](https://github.com/xiaxin1998/COTREC)]
 - (SIGIR 2021)Temporal Augmented Graph Neural Networks for Session-Based Recommendations[[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
@@ -78,9 +78,7 @@
 
 
 
-##### :small_orange_diamond:2020
-
-
+### :small_orange_diamond:2020
 - (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
 - (IEEE 2020) **Co-embedding of Nodes and Edges with Graph Neural Networks** [[paper](https://arxiv.org/abs/2010.13242)]
 - (IEEE 2020) A Graph Neural Network Framework for Social Recommendations. [[paper](https://ieeexplore.ieee.org/abstract/document/9139346)]
