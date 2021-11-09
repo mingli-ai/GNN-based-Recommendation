@@ -30,7 +30,7 @@
 - (ACM 2019) Deep learning based recommender system: A survey and new perspectives. [[paper](https://arxiv.org/pdf/1707.07435.pdf)]
 - (2021) Recommender systems based on graph embedding techniques:A comprehensive review [[paper](https://www.zhuanzhi.ai/paper/3c66703f93cc63d358e1bec24211ebf3)]
 - (ACM 2021) Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions[[paper](https://arxiv.org/pdf/2109.12843.pdf)] [[code](https://github.com/tsinghua-fib-lab/GNN-Recommender-Systems)]
-- 协同过滤推荐系统综述 [[paper]https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=XAXB202105003&uniplatform=NZKPT&v=AAQtkV0Zi8XowncS1kPR56vpuNUAhhcOEyri0-rc5e6w7D3u0aKaBuiwkI0IhKRY]
+- 协同过滤推荐系统综述 [[paper]https://kns.cnki.net/kcms/detail/detail.aspxdbcode=CJFD&dbname=CJFDAUTO&filename=XAXB202105003&uniplatform=NZKPT&v=AAQtkV0Zi8XowncS1kPR56vpuNUAhhcOEyri0-rc5e6w7D3u0aKaBuiwkI0IhKRY]
 
 
 ## Papers
