@@ -72,7 +72,7 @@
 - (SIGIR 2021)Temporal Augmented Graph Neural Networks for Session-Based Recommendations[[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
 - (WSDM 2021)An Efficient and Effective Framework for Session-based Social Recommendation[[paper](http://www.cse.ust.hk/~raywong/paper/wsdm21-SEFrame.pdf)][[code](https://github.com/twchen/SEFrame)]
 
-##### :small_orange_diamond:Contrastive Learning
+##### :small_orange_diamond:**Contrastive Learning**
 - (SIGIR 2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
 - (SIGIR 2021) **Self-supervised Graph Learning for Recommendation.**  [[paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
