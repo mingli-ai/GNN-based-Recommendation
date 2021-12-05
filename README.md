@@ -78,7 +78,7 @@
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
 - (AAAI 2021) Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation [[paper](https://arxiv.org/abs/2012.06852)] [[code](https://github.com/xiaxin1998/DHCN)]
 - (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://arxiv.org/abs/2101.06448)] [[code](https://github.com/Coder-Yu/QRec)]
-- (IJCAI 2021)Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning  
+- (IJCAI 2021)Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning  [[paper](https://arxiv.org/pdf/2105.05682.pdf)] 
 - (2021)Self-supervised Learning for Large-scale Item Recommendations[[paper](https://arxiv.org/pdf/2007.12865.pdf)]
 - (2021)Contrastive Learning for Recommender System[[paper](https://arxiv.org/pdf/2101.01317.pdf)]
 - (2021)Pre-training Graph Neural Network for Cross Domain Recommendation [[paper](https://arxiv.org/pdf/2111.08268.pdf)]
