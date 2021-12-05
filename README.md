@@ -80,10 +80,10 @@
 - (WWW 2021)Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation [[paper](https://arxiv.org/abs/2101.06448)] [[code](https://github.com/Coder-Yu/QRec)]
 - (IJCAI 2021)Multi-Scale Contrastive Siamese Networks for Self-Supervised Graph Representation Learning  
 - (2021)Self-supervised Learning for Large-scale Item Recommendations[[paper](https://arxiv.org/pdf/2007.12865.pdf)]
-- (2021)Contrastive Learning for Recommender System[[paper]https://arxiv.org/pdf/2101.01317.pdf]
-- (2021)Pre-training Graph Neural Network for Cross Domain Recommendation [[paper]https://arxiv.org/pdf/2111.08268.pdf]
-- (2021)Socially-Aware Self-Supervised Tri-Training for Recommendation [[paper]https://arxiv.org/pdf/2106.03569.pdf]
-- (2021)Self-supervised Recommendation with Cross-channel Matching Representation and Hierarchical Contrastive Learning [[paper]https://arxiv.org/pdf/2109.00676.pdf]
+- (2021)Contrastive Learning for Recommender System[[paper](https://arxiv.org/pdf/2101.01317.pdf)]
+- (2021)Pre-training Graph Neural Network for Cross Domain Recommendation [[paper](https://arxiv.org/pdf/2111.08268.pdf)]
+- (2021)Socially-Aware Self-Supervised Tri-Training for Recommendation [[paper](https://arxiv.org/pdf/2106.03569.pdf)]
+- (2021)Self-supervised Recommendation with Cross-channel Matching Representation and Hierarchical Contrastive Learning [[paper](https://arxiv.org/pdf/2109.00676.pdf)]
 
 
 
