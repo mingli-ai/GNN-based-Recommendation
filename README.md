@@ -140,7 +140,7 @@
 ## code
 - QRec[[website](https://github.com/Coder-Yu/QRec)]
 - Rechours[[website](https://github.com/THUwangcy/ReChorus)]
-- RecBole[[website](https://github.com/RUCAIBox/RecBole/blob/master/requirements.txt)]
+- RecBole[[website](https://github.com/RUCAIBox/RecBole)]
 	
 ## Tutorials
 - (2022) WSDM 2022 Tutorial:Graph Neural Network for Recommender System [[website](https://sites.google.com/view/gnn-recsys/home)]
