@@ -9,6 +9,8 @@
 
 :high_brightness: [Papers](#Papers)
 
+:high_brightness: [code](#Tutorials)
+
 :high_brightness: [Tutorials](#Tutorials)
 ***
 
@@ -135,7 +137,10 @@
 - (2017)Geometric Matrix Completion with Recurrent Multi-Graph Neural Networks. [[paper](https://arxiv.org/abs/1704.06803)]
 - (2017) DeepFM: a factorization-machine based neural network for CTR prediction. [[paper](https://arxiv.org/pdf/1703.04247.pdf)]
 
-	
+## code
+- QRec[[website](https://github.com/Coder-Yu/QRec)]
+- Rechours[[website](https://github.com/THUwangcy/ReChorus)]
+- RecBole[[website](https://github.com/RUCAIBox/RecBole/blob/master/requirements.txt)]
 	
 ## Tutorials
 - (2022) WSDM 2022 Tutorial:Graph Neural Network for Recommender System [[website](https://sites.google.com/view/gnn-recsys/home)]
