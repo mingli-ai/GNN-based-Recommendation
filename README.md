@@ -62,10 +62,10 @@
 - (2021) **How Powerful is Graph Convolution for Recommendation?** [[paper](https://arxiv.org/pdf/2108.07567.pdf)]
 - (CIKM 2021)UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation [[paper](https://arxiv.org/pdf/2110.15114.pdf)]
 - (2021) SimpleX: A Simple and Strong Baseline for Collaborative Filtering [[paper](https://arxiv.org/abs/2109.12613)]
-- (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code](https://github.com/gusye1234/pytorch-light-gcn)]
+- (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code (https://github.com/gusye1234/pytorch-light-gcn)]
 - (IEEE 2020) **Co-embedding of Nodes and Edges with Graph Neural Networks** [[paper](https://arxiv.org/abs/2010.13242)]
 - (IEEE 2020) A Graph Neural Network Framework for Social Recommendations. [[paper](https://ieeexplore.ieee.org/abstract/document/9139346)]
-- (AAAI 2020) **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** [[paper](https://arxiv.org/abs/2001.10167)] [[code]( https://github.com/newlei/LR-GCCF.)]
+- (AAAI 2020) **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** [[paper](https://arxiv.org/abs/2001.10167)][[code]( https://github.com/newlei/LR-GCCF.)]
 - (WWW 2020) Disentangling User Interest and Conformity for Recommendation with Causal Embeddings.[[paper](https://arxiv.org/abs/2006.11011)]
 - (ICLR 2020) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://openreview.net/pdf?id=ByxxgCEYDS)]
 - (Elsevier 2020) **MGAT: Multimodal Graph Attention Network for Recommendation** [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457320300182)] [[code]( https://github.com/zltao/MGAT)]
@@ -123,7 +123,7 @@
 - (WWW 2019) Knowledge Graph Convolutional Networks for Recommender Systems. [[paper](https://arxiv.org/pdf/1904.12575.pdf)]  
 
 
-##### :small_orange_diamond:Session Recommendation
+### :small_orange_diamond:Session Recommendation
 - (SDM 2021)Session-based Recommendation with Hypergraph Attention Networks[[paper](https://epubs.siam.org/doi/pdf/10.1137/1.9781611976700.10)]
 - (CIKM 2021)Self-Supervised Graph Co-Training for Session-based Recommendation[[paper](https://arxiv.org/pdf/2108.10560)][[code](https://github.com/xiaxin1998/COTREC)]
 - (SIGIR 2021)Temporal Augmented Graph Neural Networks for Session-Based Recommendations[[paper](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Huachi_sigir2021.pdf)]
@@ -131,7 +131,7 @@
 - (IJCAI 2019) Graph Contextualized Self-Attention Network for Session-based Recommendation. [[paper](https://www.ijcai.org/proceedings/2019/0547.pdf)]
 - (AAAI 2019) Session-based Recommendation with Graph Neural Networks.[[paper](https://arxiv.org/pdf/1811.00855.pdf)]
 
-##### :small_orange_diamond:**Contrastive Learning**
+### :small_orange_diamond:**Contrastive Learning**
 - (SIGIR 2021) Contrastive Learning for Sequential Recommendation. [[paper](https://arxiv.org/abs/2010.14395)]
 - (SIGIR 2021) **Self-supervised Graph Learning for Recommendation.**  [[paper](https://arxiv.org/pdf/2010.10783.pdf)] [[code](https://github.com/wujcan/SGL)]
 - (KDD 2021) Contrastive Learning for Debiased Candidate Generation in Large-Scale Recommender Systems. [[paper](https://arxiv.org/abs/2005.12964)]
