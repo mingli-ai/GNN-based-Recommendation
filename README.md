@@ -8,7 +8,6 @@
 :high_brightness: [Surveys](#Surveys)
 
 :high_brightness: [Papers](#Papers)
-		:high_brightness: [Papers](#Papers)
 
 :high_brightness: [code](#Tutorials)
 
