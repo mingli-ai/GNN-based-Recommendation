@@ -41,7 +41,9 @@
 
 ## Papers
 ### :small_orange_diamond:2022
-- (ACM Web Conference)Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning[[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
+- (ACM Web Conference)Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
+- ()Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper](https://www.researchgate.net/profile/Junliang-Yu/publication/359788233_Are_Graph_Augmentations_Necessary_Simple_Graph_Contrastive_Learning_for_Recommendation/links/624e802ad726197cfd426f81/Are-Graph-Augmentations-Necessary-Simple-Graph-Contrastive-Learning-for-Recommendation.pdf?ref=https://githubhelp.com)][[code](https://github.com/Coder-Yu/QRec)]
+
 
 
 
