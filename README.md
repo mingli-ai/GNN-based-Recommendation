@@ -153,5 +153,5 @@
 
 
 
-## Useful Blogs for GNN-based Recommendation
+## Useful Blogs 
 - Explanation and Demo for LightGCN[[website]([https://github.com/Coder-Yu/QRec](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw))]
