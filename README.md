@@ -78,7 +78,7 @@
 - (2019) Binarized Collaborative Filtering with Distilling Graph Convolutional Networks. [[paper](https://arxiv.org/pdf/1906.01829.pdf)]
 - (ICLR 2019) Inductive Matrix Completion Based on Graph Neural Networks. [[paper](https://arxiv.org/abs/1904.12058)]
 - (KDD 2019) Exact-K Recommendation via Maximal Clique Optimization[[paper](https://arxiv.org/pdf/1905.07089.pdf)]
-- (WWW 2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [[paper](https://arxiv.org/pdf/1903.10433.pdf)
+- (WWW 2019) Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender Systems. [[paper](https://arxiv.org/pdf/1903.10433.pdf)]
 - (RecSys 2018) **Spectral Collaborative Filtering** [[paper](https://arxiv.org/abs/1808.10523)] [[code](https://github.com/lzheng21/SpectralCF)]
 - (IJCAI 2018) **Outer product-based neural collaborative filtering** [[paper](https://arxiv.org/pdf/1808.03912.pdf)]
 - (KDD 2018) Graph Convolutional Neural Networks for Web-Scale Recommender Systems. [[paper](https://arxiv.org/abs/1806.01973)]
