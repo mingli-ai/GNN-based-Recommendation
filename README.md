@@ -13,7 +13,7 @@
 
 :high_brightness: [Tutorials](#Tutorials)
 
-:high_brightness: [Useful Blogs](#Useful Blogs)
+:high_brightness: [Blogs](#Useful Blogs)
 :high_brightness: [Useful Blogs](#Useful Blogs for GNN-based Recommendation)
 
 ***
