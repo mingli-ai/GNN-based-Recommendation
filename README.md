@@ -69,8 +69,8 @@
 - (2021) **Localized Graph Collaborative Filtering** [[paper](https://arxiv.org/pdf/2108.04475.pdf)]
 - (2021) 面向推荐系统的图卷积网络 [[paper](http://www.jos.org.cn/html/2020/4/5928.htm)]
 - (2021) **How Powerful is Graph Convolution for Recommendation?** [[paper](https://arxiv.org/pdf/2108.07567.pdf)]
-- (SIGIR 2021)**Sequential Recommendation with Graph Neural Networks**[[paper](https://arxiv.org/pdf/2106.14226)]
-- (WWW 2021) **RetaGNN: Relational Temporal Attentive Graph Neural Networks for Holistic Sequential Recommendation** [[paper](https://arxiv.org/abs/2101.12457)] [[code](https://github.com/retagnn/RetaGNN)]
+- (CIKM 2021)UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation [[paper](https://arxiv.org/pdf/2110.15114.pdf)]
+
 
 ##### :small_orange_diamond:social recommendation
 - (SIGIR 2021) Social Recommendation with Implicit Social Influence[[paper](https://dl.acm.org/doi/abs/10.1145/3404835.3463043)]
