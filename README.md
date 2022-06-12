@@ -52,6 +52,8 @@
 
 ##### :small_orange_diamond:Knowledge graph Recommender
 - (SIGIR 2022) **Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System** [[paper](https://arxiv.org/pdf/2204.08807.pdf)][[code](https://github.com/CCIIPLab/MCCLK)]
+- (SIGIR 2022)Knowledge Graph Contrastive Learning for Recommendation [[paper](https://arxiv.org/pdf/2205.00976.pdf)][[code](https://github.com/yuh-yang/KGCL-SIGIR22)]
+
 
 
 
