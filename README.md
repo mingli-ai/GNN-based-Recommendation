@@ -62,7 +62,7 @@
 - (2021) **How Powerful is Graph Convolution for Recommendation?** [[paper](https://arxiv.org/pdf/2108.07567.pdf)]
 - (CIKM 2021)UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation [[paper](https://arxiv.org/pdf/2110.15114.pdf)]
 - (2021) SimpleX: A Simple and Strong Baseline for Collaborative Filtering [[paper](https://arxiv.org/abs/2109.12613)]
-- (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code (https://github.com/gusye1234/pytorch-light-gcn)]
+- (SIGIR 2020) **LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation** [[paper](https://arxiv.org/abs/2002.02126)][[code] (https://github.com/gusye1234/pytorch-light-gcn)]
 - (IEEE 2020) **Co-embedding of Nodes and Edges with Graph Neural Networks** [[paper](https://arxiv.org/abs/2010.13242)]
 - (IEEE 2020) A Graph Neural Network Framework for Social Recommendations. [[paper](https://ieeexplore.ieee.org/abstract/document/9139346)]
 - (AAAI 2020) **Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach.** [[paper](https://arxiv.org/abs/2001.10167)][[code]( https://github.com/newlei/LR-GCCF.)]
