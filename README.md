@@ -165,4 +165,5 @@
 
 
 ## Blogs 
-- Explanation and Demo for LightGCN[[website](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw)]
+- Explanation and Demo for LightGCN [[website](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw)]
+- Discussion on graph neural network recommendation system in industry [[website](https://mp.weixin.qq.com/s/BVNxbiHgo0T2vqNUi6RrGQ)]
