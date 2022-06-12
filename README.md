@@ -26,7 +26,7 @@
 - [Tiktok](http://ai-lab-challenge.bytedance.com/tce/vc/)
 - [Flixster](https://figshare.com/articles/dataset/Flixster-dataset_zip/5677741)
 - [Douban](https://www.heywhale.com/mw/dataset/58acf6f1d2445916845b4033)
-- [Taobao](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649) for recommendation problem with implicit feedback
+- [Taobao](https://tianchi.aliyun.com/dataset/dataDetail?dataId=649) 
 
 
 
