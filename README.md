@@ -31,6 +31,7 @@
 
 
 ##  Surveys
+- (2022) Recommender Systems Based on Graph Embedding Techniques: A Review [[paper](https://www.zhuanzhi.ai/paper/3c66703f93cc63d358e1bec24211ebf3)]
 - (SIGIR 2021) **Self-Supervised Learning for Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2203.15876.pdf)]
 - (IEEE 2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://arxiv.org/pdf/2104.13030.pdf)]
 - (ACM 2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
