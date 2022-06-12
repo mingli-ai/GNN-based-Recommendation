@@ -155,4 +155,4 @@
 
 
 ## Blogs 
-- Explanation and Demo for LightGCN[[website]([https://github.com/Coder-Yu/QRec](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw))]
+- Explanation and Demo for LightGCN[[website](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw)
