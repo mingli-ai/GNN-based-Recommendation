@@ -13,7 +13,7 @@
 
 :high_brightness: [Tutorials](#Tutorials)
 
-:high_brightness:[Useful Blogs for GNN-based Recommendation]
+:high_brightness:[Useful Blogs for GNN-based Recommendation](#Useful Blogs for GNN-based Recommendation)
 ***
 
 ## Datasets
@@ -149,3 +149,8 @@
 - (2021) **Deep Recommender System: Fundamentals and Advances.** [[website](https://deeprs-tutorial.github.io)]
 - (2021) **Multi-Modal Recommender Systems: Hands-On Exploration** [[website](https://recsys.acm.org/recsys21/tutorials/#content-tab-1-1-tab)] [[pdf](https://github.com/PreferredAI/tutorials/tree/master/multimodal-recsys)]
 - (2020) Learning and Reasoning on Graph for Recommendation  [[website](https://next-nus.github.io/)]
+
+
+
+## Useful Blogs for GNN-based Recommendation
+- Explanation and Demo for LightGCN[[website]([https://github.com/Coder-Yu/QRec](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw))]
