@@ -12,6 +12,8 @@
 :high_brightness: [code](#Tutorials)
 
 :high_brightness: [Tutorials](#Tutorials)
+
+:high_brightness:[Useful Blogs for GNN-based Recommendation]
 ***
 
 ## Datasets
