@@ -32,6 +32,7 @@
 
 ##  Surveys
 - (2022) Recommender Systems Based on Graph Embedding Techniques: A Review [[paper](https://www.zhuanzhi.ai/paper/3c66703f93cc63d358e1bec24211ebf3)]
+- (2022) Deep Meta-learning in Recommendation Systems: A Survey [[paper](https://arxiv.org/pdf/2206.04415.pdf)]
 - (SIGIR 2021) **Self-Supervised Learning for Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2203.15876.pdf)]
 - (IEEE 2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://arxiv.org/pdf/2104.13030.pdf)]
 - (ACM 2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
@@ -46,13 +47,17 @@
 - (ACM Web Conference 2022)**Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning** [[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
 - (ACM 2022)Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper](https://www.researchgate.net/profile/Junliang-Yu/publication/359788233_Are_Graph_Augmentations_Necessary_Simple_Graph_Contrastive_Learning_for_Recommendation/links/624e802ad726197cfd426f81/Are-Graph-Augmentations-Necessary-Simple-Graph-Contrastive-Learning-for-Recommendation.pdf?ref=https://githubhelp.com)][[code](https://github.com/Coder-Yu/QRec)]
 - (2022)Enhancing Sequential Recommendation with Graph Contrastive Learning [[paper](https://arxiv.org/pdf/2205.14837.pdf)]
-- (2022)Self-supervised Graph Neural Networks for Multi-behavior Recommendation [[paper](http://www.shichuan.org/doc/134.pdf)]
+- (2022)**Self-supervised Graph Neural Networks for Multi-behavior Recommendation** [[paper](http://www.shichuan.org/doc/134.pdf)]
+- ()CrossCBR: Cross-view Contrastive Learning for Bundle Recommendation [[paper](https://arxiv.org/pdf/2206.00242.pdf)]
 
 
 
 ##### :small_orange_diamond:Knowledge graph Recommender
 - (SIGIR 2022) **Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System** [[paper](https://arxiv.org/pdf/2204.08807.pdf)][[code](https://github.com/CCIIPLab/MCCLK)]
-- (SIGIR 2022)Knowledge Graph Contrastive Learning for Recommendation [[paper](https://arxiv.org/pdf/2205.00976.pdf)][[code](https://github.com/yuh-yang/KGCL-SIGIR22)]
+- (SIGIR 2022)**Knowledge Graph Contrastive Learning for Recommendation** [[paper](https://arxiv.org/pdf/2205.00976.pdf)][[code](https://github.com/yuh-yang/KGCL-SIGIR22)]
+
+##### :small_orange_diamond:Sequential Recommendation
+- (2022)Enhancing Sequential Recommendation with Graph Contrastive Learnin [[paper](https://arxiv.org/pdf/2205.14837.pdf)]
 
 
 
