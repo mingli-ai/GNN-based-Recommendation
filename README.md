@@ -31,7 +31,7 @@
 
 
 ##  Surveys
-- (SIGIR 2021) **Self-supervised Graph Learning for Recommendation** [[paper](https://arxiv.org/pdf/2010.10783.pdf?ref=https://githubhelp.com)]
+- (SIGIR 2021) **Self-Supervised Learning for Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2203.15876.pdf)]
 - (IEEE 2021) **A Survey on Neural Recommendation: From Collaborative Filtering to Content and Context Enriched Recommendation** [[paper](https://arxiv.org/pdf/2104.13030.pdf)]
 - (ACM 2021) **Graph Neural Networks in Recommender Systems: A Survey** [[paper](https://arxiv.org/pdf/2011.02260.pdf)]
 - (ACM 2019) Deep learning based recommender system: A survey and new perspectives. [[paper](https://arxiv.org/pdf/1707.07435.pdf)]
