@@ -40,6 +40,14 @@
 
 
 ## Papers
+### :small_orange_diamond:2022
+- (ACM Web Conference)Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning[[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
+
+
+
+
+
+
 ### :small_orange_diamond:2021
 - (SIGIR 2021) Graph Meta Network for Multi-Behavior Recommendation [[paper](https://dl.acm.org/doi/pdf/10.1145/3404835.3462972)] [[code](https://github.com/akaxlh/MB-GMN)]
 - (SIGIR 2021) **Neural Graph Matching based Collaborative Filtering** [[paper](https://arxiv.org/abs/2105.04067)] [[code](https://github.com/ruizhang-ai/GMCF_Neural_Graph_Matching_based_Collaborative_Filtering)]
