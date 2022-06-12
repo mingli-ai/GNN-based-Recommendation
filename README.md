@@ -14,7 +14,7 @@
 :high_brightness: [Tutorials](#Tutorials)
 
 :high_brightness: [Blogs](#Blogs)
-:high_brightness: [Useful Blogs](#Useful Blogs for GNN-based Recommendation)
+
 
 ***
 
@@ -154,5 +154,5 @@
 
 
 
-## Useful Blogs 
+## Blogs 
 - Explanation and Demo for LightGCN[[website]([https://github.com/Coder-Yu/QRec](https://mp.weixin.qq.com/s/G2SEydgOI09FqtpMvWZKvw))]
