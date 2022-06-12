@@ -42,13 +42,13 @@
 
 ## Papers
 ### :small_orange_diamond:2022
-- (ACM Web Conference)Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
+- (ACM Web Conference 2022)Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning [[paper](https://arxiv.org/pdf/2202.06200.pdf)][[code](https://github.com/RUCAIBox/NCL)]
 - (ACM 2022)Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation [[paper](https://www.researchgate.net/profile/Junliang-Yu/publication/359788233_Are_Graph_Augmentations_Necessary_Simple_Graph_Contrastive_Learning_for_Recommendation/links/624e802ad726197cfd426f81/Are-Graph-Augmentations-Necessary-Simple-Graph-Contrastive-Learning-for-Recommendation.pdf?ref=https://githubhelp.com)][[code](https://github.com/Coder-Yu/QRec)]
 
 
 
 ##### :small_orange_diamond:Knowledge graph Recommender
-- Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System [[paper](https://arxiv.org/pdf/2204.08807.pdf)][[code](https://github.com/CCIIPLab/MCCLK)]
+- (SIGIR 2022)Multi-level Cross-view Contrastive Learning for Knowledge-aware Recommender System [[paper](https://arxiv.org/pdf/2204.08807.pdf)][[code](https://github.com/CCIIPLab/MCCLK)]
 
 
 
