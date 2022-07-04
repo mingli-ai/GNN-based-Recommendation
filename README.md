@@ -160,6 +160,7 @@
 	
 ## Tutorials
 - (2022) WSDM 2022 Tutorial:Graph Neural Network for Recommender System [[website](https://sites.google.com/view/gnn-recsys/home)]
+- (2022) Self-Supervised Learning in Recommendation [[website]([https://sites.google.com/view/gnn-recsys/home](https://ssl-recsys.github.io/))]
 - (2021) **Deep Recommender System: Fundamentals and Advances.** [[website](https://deeprs-tutorial.github.io)]
 - (2021) **Multi-Modal Recommender Systems: Hands-On Exploration** [[website](https://recsys.acm.org/recsys21/tutorials/#content-tab-1-1-tab)] [[pdf](https://github.com/PreferredAI/tutorials/tree/master/multimodal-recsys)]
 - (2020) Learning and Reasoning on Graph for Recommendation  [[website](https://next-nus.github.io/)]
