@@ -9,7 +9,7 @@
 
 :high_brightness: [Papers](#Papers)
 
-:high_brightness: [code](#Tutorials)
+:high_brightness: [Resources](#Useful resources)
 
 :high_brightness: [Tutorials](#Tutorials)
 
@@ -154,7 +154,7 @@
 
 
 ## Ueeful resoucres
-- Graph-RSs-Reproducibility[[website]([https://github.com/Coder-Yu/QRec]
+- Graph-RSs-Reproducibility[[website](https://github.com/Coder-Yu/QRec).]
 - QRec[[website](https://github.com/Coder-Yu/QRec)]
 - Rechours[[website](https://github.com/THUwangcy/ReChorus)]
 - RecBole[[website](https://github.com/RUCAIBox/RecBole)]
