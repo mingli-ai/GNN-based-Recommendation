@@ -153,7 +153,8 @@
 
 
 
-## code
+## Ueeful resoucres
+- Graph-RSs-Reproducibility[[website]([https://github.com/Coder-Yu/QRec]
 - QRec[[website](https://github.com/Coder-Yu/QRec)]
 - Rechours[[website](https://github.com/THUwangcy/ReChorus)]
 - RecBole[[website](https://github.com/RUCAIBox/RecBole)]
